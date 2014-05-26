@@ -4,4 +4,4 @@
 База данных postgresql 9.3;
 GUI framework: swing;
 ORM: hibernate;
-IDE: eclipse;
+IDE: eclipse;;
