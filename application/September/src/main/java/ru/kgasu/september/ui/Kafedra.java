@@ -34,7 +34,7 @@ public class Kafedra extends JFrame implements TreeSelectionListener {
 
 	public Kafedra() {
 		// ------------------------------------------
-		// добавление и настройка компонент
+		//  добавление и настройка компонент
 		Container c = getContentPane(); // клиентская область окна
 		c.setLayout(new BorderLayout()); // выбираем компоновщик
 
